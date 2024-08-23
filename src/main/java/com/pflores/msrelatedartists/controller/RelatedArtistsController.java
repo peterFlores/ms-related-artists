@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Map;
 
-@RequestMapping("/v1")
+@RequestMapping("/ms-related-artists")
 @RestController
 public class RelatedArtistsController {
 
